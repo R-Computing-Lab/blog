@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://r-computing-lab.github.io/blog/"
 locale: "en-US"
 title: "R Computing Lab"
 theme: "hugo-lithium"

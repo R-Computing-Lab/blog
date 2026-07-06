@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on R Computing Lab</title>
-		<link>/tags/</link>
+		<link>https://r-computing-lab.github.io/blog/tags/</link>
 		<description>Recent content in Tags on R Computing Lab</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Mon, 06 Jul 2026 00:00:00 -0400</lastBuildDate>
 		
-			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://r-computing-lab.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Meta</title>
-				<link>/tags/meta/</link>
+				<link>https://r-computing-lab.github.io/blog/tags/meta/</link>
 				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
-				<guid>/tags/meta/</guid>
+				<guid>https://r-computing-lab.github.io/blog/tags/meta/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>R</title>
-				<link>/tags/r/</link>
+				<link>https://r-computing-lab.github.io/blog/tags/r/</link>
 				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
-				<guid>/tags/r/</guid>
+				<guid>https://r-computing-lab.github.io/blog/tags/r/</guid>
 				<description></description>
 			</item>
 	</channel>

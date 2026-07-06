@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://r-computing-lab.github.io/blog/about/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/categories/announcements/</loc>
+    <loc>https://r-computing-lab.github.io/blog/categories/announcements/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://r-computing-lab.github.io/blog/categories/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/tags/meta/</loc>
+    <loc>https://r-computing-lab.github.io/blog/tags/meta/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://r-computing-lab.github.io/blog/post/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/publications/</loc>
+    <loc>https://r-computing-lab.github.io/blog/publications/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/tags/r/</loc>
+    <loc>https://r-computing-lab.github.io/blog/tags/r/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://r-computing-lab.github.io/blog/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/software/</loc>
+    <loc>https://r-computing-lab.github.io/blog/software/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://r-computing-lab.github.io/blog/tags/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/2026/07/06/welcome-to-the-r-computing-lab-blog/</loc>
+    <loc>https://r-computing-lab.github.io/blog/2026/07/06/welcome-to-the-r-computing-lab-blog/</loc>
     <lastmod>2026-07-06T00:00:00-04:00</lastmod>
   </url>
 </urlset>

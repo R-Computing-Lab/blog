@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>R Computing Lab</title>
-		<link>/</link>
+		<link>https://r-computing-lab.github.io/blog/</link>
 		<description>Recent content on R Computing Lab</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Mon, 06 Jul 2026 00:00:00 -0400</lastBuildDate>
 		
-			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://r-computing-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>About</title>
-				<link>/about/</link>
+				<link>https://r-computing-lab.github.io/blog/about/</link>
 				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
-				<guid>/about/</guid>
-				<description>&lt;!-- This file is generated from about.Rmd by knitr. Please edit that file instead. --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;S. Mason Garrison&lt;/strong&gt;, Associate Professor of Quantitative Psychology at Wake Forest University and Director of the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt;. I earned my Ph.D. in Quantitative Methods from Vanderbilt University&amp;rsquo;s Peabody College, advised by Joseph L. Rodgers.&lt;/p&gt;&#xA;&lt;p&gt;My research develops genetically-informed research designs — sibling comparisons, discordant kinship models, and extended pedigree methods — for studying individual differences, health inequities, and socioeconomic disparities without requiring twin samples. A lot of that work lives in R packages I build and maintain (see the &lt;a href=&#34;/software/&#34;&gt;Software&lt;/a&gt; page), and I write about the R side of that work here.&lt;/p&gt;</description>
+				<guid>https://r-computing-lab.github.io/blog/about/</guid>
+				<description>&lt;!-- This file is generated from about.Rmd by knitr. Please edit that file instead. --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;S. Mason Garrison&lt;/strong&gt;, Associate Professor of Quantitative Psychology at Wake Forest University and Director of the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt;. I earned my Ph.D. in Quantitative Methods from Vanderbilt University&amp;rsquo;s Peabody College, advised by Joseph L. Rodgers.&lt;/p&gt;&#xA;&lt;p&gt;My research develops genetically-informed research designs — sibling comparisons, discordant kinship models, and extended pedigree methods — for studying individual differences, health inequities, and socioeconomic disparities without requiring twin samples. A lot of that work lives in R packages I build and maintain (see the &lt;a href=&#34;https://r-computing-lab.github.io/blog/software/&#34;&gt;Software&lt;/a&gt; page), and I write about the R side of that work here.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Publications</title>
-				<link>/publications/</link>
+				<link>https://r-computing-lab.github.io/blog/publications/</link>
 				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
-				<guid>/publications/</guid>
+				<guid>https://r-computing-lab.github.io/blog/publications/</guid>
 				<description>&lt;!-- This file is generated from publications.Rmd by knitr. Please edit that file instead. --&gt;&#xA;&lt;p&gt;A few highlights. For the complete, up-to-date list, see the &lt;a href=&#34;https://smasongarrison.github.io/CV-Tex/SMasonGarrisonCV.pdf&#34;&gt;full CV (PDF)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;software-papers&#34;&gt;Software papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Garrison, S. M. (2026). &lt;a href=&#34;https://doi.org/10.21105/joss.09434&#34;&gt;ggpedigree: Visualizing Pedigrees with &amp;lsquo;ggplot2&amp;rsquo; and &amp;lsquo;plotly&amp;rsquo;&lt;/a&gt;. &lt;em&gt;Journal of Open Source Software&lt;/em&gt;, 11(118), 9434.&lt;/li&gt;&#xA;&lt;li&gt;Garrison, S. M., Hunter, M., Lyu, X., Trattner, J., &amp;amp; Burt, S. A. (2024). &lt;a href=&#34;https://doi.org/10.21105/joss.06203&#34;&gt;BGmisc: An R Package for Extended Behavior Genetics Analysis&lt;/a&gt;. &lt;em&gt;Journal of Open Source Software&lt;/em&gt;, 9(94), 6203.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;selected-papers&#34;&gt;Selected papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aczel, B., Szaszi, B., &amp;hellip; Garrison, S. M., &amp;hellip; Nosek, B. (2026). &lt;a href=&#34;https://doi.org/10.1038/s41586-025-09844-9&#34;&gt;Investigating the analytical robustness of the social and behavioural sciences&lt;/a&gt;. &lt;em&gt;Nature&lt;/em&gt;, 652, 135–142.&lt;/li&gt;&#xA;&lt;li&gt;Burt, S. A., Garrison, S. M., Lyu, X., Rodgers, J. L., Carroll, S. L., Smith, K. R., &amp;amp; Hunter, M. D. (2025). &lt;a href=&#34;https://doi.org/10.1016/j.ebiom.2025.105911&#34;&gt;Contributions of inherited mtDNA to longevity: evidence from extended pedigrees with 176 million kinship pairs&lt;/a&gt;. &lt;em&gt;eBioMedicine&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Lyu, X., Hunter, M. D., Burt, S. A., Good, R., Carroll, S. L., &amp;amp; Garrison, S. M. (2025). &lt;a href=&#34;https://doi.org/10.1007/s10519-025-10225-1&#34;&gt;Detecting mtDNA Effects with an Extended Pedigree Model&lt;/a&gt;. &lt;em&gt;Behavior Genetics&lt;/em&gt;. — Editors&amp;rsquo; Choice Award, Best Paper in Volume 55.&lt;/li&gt;&#xA;&lt;li&gt;Garrison, S. M. &amp;amp; Rodgers, J. L. (2019). &lt;a href=&#34;https://doi.org/10.1037/pspp0000226&#34;&gt;Decomposing the Causes of the Socioeconomic Status-Health Gradient with Biometrical Modeling&lt;/a&gt;. &lt;em&gt;Journal of Personality and Social Psychology&lt;/em&gt;, 116(6), 1030–1047.&lt;/li&gt;&#xA;&lt;li&gt;Jackson, J. J., Connolly, J. J., Garrison, S. M., Leveille, M., &amp;amp; Connolly, S. L. (2015). &lt;a href=&#34;https://doi.org/10.1177/0956797614561800&#34;&gt;Your friends know how long you will live: A 75-year study of peer-rated personality traits&lt;/a&gt;. &lt;em&gt;Psychological Science&lt;/em&gt;, 26(3), 335-340.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;book&#34;&gt;Book&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Garrison, S. M. (2021–present). &lt;a href=&#34;https://datascience4psych.github.io/DataScience4Psych/&#34;&gt;Data Science for Psychologists&lt;/a&gt;. Free, open-source multimedia textbook written in R about R.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>Software</title>
-				<link>/software/</link>
+				<link>https://r-computing-lab.github.io/blog/software/</link>
 				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
-				<guid>/software/</guid>
+				<guid>https://r-computing-lab.github.io/blog/software/</guid>
 				<description>&lt;!-- This file is generated from software.Rmd by knitr. Please edit that file instead. --&gt;&#xA;&lt;p&gt;R packages developed and maintained by the R Computing Lab, mostly built around genetically-informed research designs — pedigrees, kinship, and family-based models — without requiring twin samples.&lt;/p&gt;&#xA;&lt;h2 id=&#34;maintainer&#34;&gt;Maintainer&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.32614/CRAN.package.ggpedigree&#34;&gt;ggpedigree&lt;/a&gt;&lt;/strong&gt; — Visualizing pedigrees with &lt;code&gt;ggplot2&lt;/code&gt; and &lt;code&gt;plotly&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.32614/CRAN.package.BGmisc&#34;&gt;BGmisc&lt;/a&gt;&lt;/strong&gt; — Extended behavior genetics analysis: relatedness, pedigree construction, and variance component tools.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.32614/CRAN.package.discord&#34;&gt;discord&lt;/a&gt;&lt;/strong&gt; — Functions for discordant kinship (sibling/cousin comparison) modeling.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.32614/CRAN.package.NlsyLinks&#34;&gt;NlsyLinks&lt;/a&gt;&lt;/strong&gt; — Utilities and kinship links for research with the National Longitudinal Survey of Youth (NLSY).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contributor&#34;&gt;Contributor&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.32614/CRAN.package.ACEsimFit&#34;&gt;ACEsimFit&lt;/a&gt;&lt;/strong&gt; — ACE kin-pair data simulation and model fitting.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Bug reports and contributions are welcome on each package&amp;rsquo;s GitHub repo, linked from its CRAN page above.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Welcome to the R Computing Lab Blog</title>
-				<link>/2026/07/06/welcome-to-the-r-computing-lab-blog/</link>
+				<link>https://r-computing-lab.github.io/blog/2026/07/06/welcome-to-the-r-computing-lab-blog/</link>
 				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
-				<guid>/2026/07/06/welcome-to-the-r-computing-lab-blog/</guid>
+				<guid>https://r-computing-lab.github.io/blog/2026/07/06/welcome-to-the-r-computing-lab-blog/</guid>
 				<description>&lt;!-- This file is generated from index.Rmd by knitr. Please edit that file instead. --&gt;&#xA;&lt;!--&#xA;TODO (Mason): replace this comment with your own 5-10 line opening paragraph.&#xA;This is the one part of the post meant to sound like you, not a draft written for you.&#xA;Some angles that might help get started:&#xA;  - What made you want to start writing this blog now?&#xA;  - What&#39;s a small R problem or package moment that stuck with you recently?&#xA;  - What do you want a reader stumbling in from R-bloggers to walk away with?&#xA;--&gt;&#xA;&lt;p&gt;This blog is where the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt; writes about the R side of our work: package releases and updates, tutorials on the genetically-informed methods we build tools for, and shorter notes on reproducible research practice.&lt;/p&gt;</description>
 			</item>
 	</channel>
