@@ -1,0 +1,44 @@
+/* DS4P (datascience4psych.github.io) color scheme, applied to hugo-lithium */
+
+h1, h2, h3, h4, h5, h6 {
+  color: #2f5275;
+}
+
+.article-title {
+  color: #2f5275;
+}
+
+.nav-links a {
+  color: #2f5275;
+}
+
+.nav-links a:hover {
+  color: #5699cc;
+}
+
+.article-content a {
+  border-bottom-color: #bed3ec;
+  box-shadow: inset 0 -4px 0 #bed3ec;
+}
+
+.article-content a:hover,
+.article-content a:focus {
+  background: #bed3ec;
+}
+
+.archive-item-link {
+  color: #2f5275;
+}
+
+.archive-item-link:hover {
+  border-bottom-color: #5699cc;
+}
+
+.footer-links a {
+  color: #778ca5;
+}
+
+.footer-links a:hover,
+.footer-links a:focus {
+  color: #2c6793;
+}

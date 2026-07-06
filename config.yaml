@@ -38,6 +38,7 @@ params:
   MathJaxCDN: "//cdnjs.cloudflare.com/ajax/libs"
   MathJaxVersion: "2.7.5"
   favicon: "favicon.ico"
+  customCSS: ["css/custom.css"]
   logo:
     url: "logo.png"
     width: 50
