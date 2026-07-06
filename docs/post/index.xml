@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on R Computing Lab</title>
+		<link>/post/</link>
+		<description>Recent content in Posts on R Computing Lab</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 06 Jul 2026 00:00:00 -0400</lastBuildDate>
+		
+			<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Welcome to the R Computing Lab Blog</title>
+				<link>/2026/07/06/welcome-to-the-r-computing-lab-blog/</link>
+				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
+				<guid>/2026/07/06/welcome-to-the-r-computing-lab-blog/</guid>
+				<description>&lt;!-- This file is generated from index.Rmd by knitr. Please edit that file instead. --&gt;&#xA;&lt;!--&#xA;TODO (Mason): replace this comment with your own 5-10 line opening paragraph.&#xA;This is the one part of the post meant to sound like you, not a draft written for you.&#xA;Some angles that might help get started:&#xA;  - What made you want to start writing this blog now?&#xA;  - What&#39;s a small R problem or package moment that stuck with you recently?&#xA;  - What do you want a reader stumbling in from R-bloggers to walk away with?&#xA;--&gt;&#xA;&lt;p&gt;This blog is where the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt; writes about the R side of our work: package releases and updates, tutorials on the genetically-informed methods we build tools for, and shorter notes on reproducible research practice.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
