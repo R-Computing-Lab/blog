@@ -5,3 +5,4 @@
 public/
 *.knit.md
 *.tmp*
+.claude/launch.json

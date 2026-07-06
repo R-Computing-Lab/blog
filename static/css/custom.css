@@ -1,11 +1,14 @@
-/* DS4P (datascience4psych.github.io) color scheme, applied to hugo-lithium */
+/* DS4P (datascience4psych.github.io) color scheme, applied to hugo-lithium.
+   Every color rule below maps 1:1 to a color declaration in
+   themes/hugo-lithium/static/css/main.css - see that file for the originals. */
 
 h1, h2, h3, h4, h5, h6 {
   color: #2f5275;
 }
 
-.article-title {
-  color: #2f5275;
+.header {
+  background: #ffffff;
+  border-bottom-color: #bed3ec;
 }
 
 .nav-links a {
@@ -16,18 +19,42 @@ h1, h2, h3, h4, h5, h6 {
   color: #5699cc;
 }
 
+.article-title {
+  color: #2f5275;
+}
+
+.article-date {
+  color: #778ca5;
+}
+
+.article-duration {
+  background: #5699cc;
+  color: #fff;
+}
+
 .article-content a {
+  color: #3f88ca;
   border-bottom-color: #bed3ec;
   box-shadow: inset 0 -4px 0 #bed3ec;
 }
 
 .article-content a:hover,
 .article-content a:focus {
+  color: #1f5386;
   background: #bed3ec;
+}
+
+.article-content hr {
+  background: #bed3ec;
+}
+
+.archive-item-date {
+  color: #778ca5;
 }
 
 .archive-item-link {
   color: #2f5275;
+  border-bottom-color: #bed3ec;
 }
 
 .archive-item-link:hover {
