@@ -1,0 +1,24 @@
+---
+date: '2026-07-06T00:00:00-04:00'
+title: Publications
+---
+
+A few highlights.
+For the complete, up-to-date list, see the [full CV (PDF)](https://smasongarrison.github.io/CV-Tex/SMasonGarrisonCV.pdf).
+
+## Software papers
+
+- Garrison, S. M. (2026). [ggpedigree: Visualizing Pedigrees with 'ggplot2' and 'plotly'](https://doi.org/10.21105/joss.09434). *Journal of Open Source Software*, 11(118), 9434.
+- Garrison, S. M., Hunter, M., Lyu, X., Trattner, J., & Burt, S. A. (2024). [BGmisc: An R Package for Extended Behavior Genetics Analysis](https://doi.org/10.21105/joss.06203). *Journal of Open Source Software*, 9(94), 6203.
+
+## Selected papers
+
+- Aczel, B., Szaszi, B., ... Garrison, S. M., ... Nosek, B. (2026). [Investigating the analytical robustness of the social and behavioural sciences](https://doi.org/10.1038/s41586-025-09844-9). *Nature*, 652, 135–142.
+- Burt, S. A., Garrison, S. M., Lyu, X., Rodgers, J. L., Carroll, S. L., Smith, K. R., & Hunter, M. D. (2025). [Contributions of inherited mtDNA to longevity: evidence from extended pedigrees with 176 million kinship pairs](https://doi.org/10.1016/j.ebiom.2025.105911). *eBioMedicine*.
+- Lyu, X., Hunter, M. D., Burt, S. A., Good, R., Carroll, S. L., & Garrison, S. M. (2025). [Detecting mtDNA Effects with an Extended Pedigree Model](https://doi.org/10.1007/s10519-025-10225-1). *Behavior Genetics*. — Editors' Choice Award, Best Paper in Volume 55.
+- Garrison, S. M. & Rodgers, J. L. (2019). [Decomposing the Causes of the Socioeconomic Status-Health Gradient with Biometrical Modeling](https://doi.org/10.1037/pspp0000226). *Journal of Personality and Social Psychology*, 116(6), 1030–1047.
+- Jackson, J. J., Connolly, J. J., Garrison, S. M., Leveille, M., & Connolly, S. L. (2015). [Your friends know how long you will live: A 75-year study of peer-rated personality traits](https://doi.org/10.1177/0956797614561800). *Psychological Science*, 26(3), 335-340.
+
+## Book
+
+- Garrison, S. M. (2021–present). [Data Science for Psychologists](https://datascience4psych.github.io/DataScience4Psych/). Free, open-source multimedia textbook written in R about R.

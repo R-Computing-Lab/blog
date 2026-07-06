@@ -11,13 +11,18 @@ menu:
   main:
     - name: About
       url: "/about/"
+    - name: Software
+      url: "/software/"
+    - name: Publications
+      url: "/publications/"
     - name: GitHub
       url: "https://github.com/R-Computing-Lab/blog"
     - name: Twitter
       url: "https://twitter.com/smasongarrison"
 
 params:
-  description: "A website built through Hugo and blogdown."
+  # NOTE: favicon.ico and logo.png below are referenced but not yet present in static/ — add assets later.
+  description: "R packages, statistical genetics, and reproducible research notes from the R Computing Lab at Wake Forest University."
   highlightjsVersion: "9.12.0"
   highlightjsCDN: "//cdnjs.cloudflare.com/ajax/libs"
   highlightjsLang: ["r", "yaml"]

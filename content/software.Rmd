@@ -1,0 +1,19 @@
+---
+date: '2026-07-06T00:00:00-04:00'
+title: Software
+---
+
+R packages developed and maintained by the R Computing Lab, mostly built around genetically-informed research designs — pedigrees, kinship, and family-based models — without requiring twin samples.
+
+## Maintainer
+
+- [**ggpedigree**](https://doi.org/10.32614/CRAN.package.ggpedigree) — Visualizing pedigrees with `ggplot2` and `plotly`.
+- [**BGmisc**](https://doi.org/10.32614/CRAN.package.BGmisc) — Extended behavior genetics analysis: relatedness, pedigree construction, and variance component tools.
+- [**discord**](https://doi.org/10.32614/CRAN.package.discord) — Functions for discordant kinship (sibling/cousin comparison) modeling.
+- [**NlsyLinks**](https://doi.org/10.32614/CRAN.package.NlsyLinks) — Utilities and kinship links for research with the National Longitudinal Survey of Youth (NLSY).
+
+## Contributor
+
+- [**ACEsimFit**](https://doi.org/10.32614/CRAN.package.ACEsimFit) — ACE kin-pair data simulation and model fitting.
+
+Bug reports and contributions are welcome on each package's GitHub repo, linked from its CRAN page above.
