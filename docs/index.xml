@@ -18,7 +18,7 @@
 				<link>https://r-computing-lab.github.io/blog/about/</link>
 				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
 				<guid>https://r-computing-lab.github.io/blog/about/</guid>
-				<description>&lt;!-- This file is generated from about.Rmd by knitr. Please edit that file instead. --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;S. Mason Garrison&lt;/strong&gt;, Associate Professor of Quantitative Psychology at Wake Forest University and Director of the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt;. I earned my Ph.D. in Quantitative Methods from Vanderbilt University&amp;rsquo;s Peabody College, advised by Joseph L. Rodgers.&lt;/p&gt;&#xA;&lt;p&gt;My research develops genetically-informed research designs — sibling comparisons, discordant kinship models, and extended pedigree methods — for studying individual differences, health inequities, and socioeconomic disparities without requiring twin samples. A lot of that work lives in R packages I build and maintain (see the &lt;a href=&#34;https://r-computing-lab.github.io/blog/software/&#34;&gt;Software&lt;/a&gt; page), and I write about the R side of that work here.&lt;/p&gt;</description>
+				<description>&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;S. Mason Garrison&lt;/strong&gt;, Associate Professor of Quantitative Psychology at Wake Forest University and Director of the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt;.&#xA;I earned my Ph.D. in Quantitative Methods from Vanderbilt University&amp;rsquo;s Peabody College, advised by Joseph L. Rodgers.&lt;/p&gt;&#xA;&lt;p&gt;My research develops genetically-informed research designs — sibling comparisons, discordant kinship models, and extended pedigree methods — for studying individual differences, health inequities, and socioeconomic disparities without requiring twin samples.&#xA;A lot of that work lives in R packages I build and maintain (see the &lt;a href=&#34;https://r-computing-lab.github.io/blog/software/&#34;&gt;Software&lt;/a&gt; page), and I write about the R side of that work here.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Publications</title>
@@ -40,6 +40,13 @@
 				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
 				<guid>https://r-computing-lab.github.io/blog/2026/07/06/welcome-to-the-r-computing-lab-blog/</guid>
 				<description>&lt;p&gt;It&amp;rsquo;s official! 😁 I have tenure now (as of July 1st), and I want to start writing more about the R side of my work. It&amp;rsquo;s the part of my research that I enjoy the most, and I want to share it with others. Heck, I even named my lab the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt;&amp;hellip; This blog is a place for me to write about the R packages I maintain, the methods I develop, and the reproducible research practices I use.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://r-computing-lab.github.io/blog/post83bc47072d90.tmp/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://r-computing-lab.github.io/blog/post83bc47072d90.tmp/</guid>
+				<description>&lt;p&gt;I’m &lt;strong&gt;S. Mason Garrison&lt;/strong&gt;, Associate Professor of Quantitative Psychology at Wake Forest University and Director of the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt;.&#xD;&#xA;I earned my Ph.D. in Quantitative Methods from Vanderbilt University’s Peabody College, advised by Joseph L. Rodgers.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;My research develops genetically-informed research designs — sibling comparisons, discordant kinship models, and extended pedigree methods — for studying individual differences, health inequities, and socioeconomic disparities without requiring twin samples.&#xD;&#xA;A lot of that work lives in R packages I build and maintain (see the &lt;a href=&#34;https://r-computing-lab.github.io/blog/software/&#34;&gt;Software&lt;/a&gt; page), and I write about the R side of that work here.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
