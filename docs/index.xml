@@ -39,7 +39,7 @@
 				<link>https://r-computing-lab.github.io/blog/2026/07/06/welcome-to-the-r-computing-lab-blog/</link>
 				<pubDate>Mon, 06 Jul 2026 00:00:00 -0400</pubDate>
 				<guid>https://r-computing-lab.github.io/blog/2026/07/06/welcome-to-the-r-computing-lab-blog/</guid>
-				<description>&lt;!-- This file is generated from index.Rmd by knitr. Please edit that file instead. --&gt;&#xA;&lt;!--&#xA;TODO (Mason): replace this comment with your own 5-10 line opening paragraph.&#xA;This is the one part of the post meant to sound like you, not a draft written for you.&#xA;Some angles that might help get started:&#xA;  - What made you want to start writing this blog now?&#xA;  - What&#39;s a small R problem or package moment that stuck with you recently?&#xA;  - What do you want a reader stumbling in from R-bloggers to walk away with?&#xA;--&gt;&#xA;&lt;p&gt;This blog is where the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt; writes about the R side of our work: package releases and updates, tutorials on the genetically-informed methods we build tools for, and shorter notes on reproducible research practice.&lt;/p&gt;</description>
+				<description>&lt;p&gt;It&amp;rsquo;s official! 😁 I have tenure now (as of July 1st), and I want to start writing more about the R side of my work. It&amp;rsquo;s the part of my research that I enjoy the most, and I want to share it with others. Heck, I even named my lab the &lt;a href=&#34;https://github.com/R-Computing-Lab&#34;&gt;R Computing Lab&lt;/a&gt;&amp;hellip; This blog is a place for me to write about the R packages I maintain, the methods I develop, and the reproducible research practices I use.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

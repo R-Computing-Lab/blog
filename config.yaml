@@ -22,8 +22,6 @@ menu:
       url: "https://twitter.com/smasongarrison"
 
 params:
-  # NOTE: favicon.ico and logo.png below currently fall back to the hugo-lithium theme's stock defaults
-  # (no custom versions in static/ yet) — swap in real lab branding later.
   description: "R packages, statistical genetics, and reproducible research notes from the R Computing Lab at Wake Forest University."
   highlightjsVersion: "9.12.0"
   highlightjsCDN: "//cdnjs.cloudflare.com/ajax/libs"
@@ -36,7 +34,7 @@ params:
     url: "logo.png"
     width: 50
     height: 50
-    alt: "Logo"
+    alt: "R Computing Lab logo"
 
 security:
   allowContent: ['.*']

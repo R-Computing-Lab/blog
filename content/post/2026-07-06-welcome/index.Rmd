@@ -6,18 +6,10 @@ categories: ["announcements"]
 tags: ["R", "meta"]
 ---
 
-```{=html}
-<!--
-TODO (Mason): replace this comment with your own 5-10 line opening paragraph.
-This is the one part of the post meant to sound like you, not a draft written for you.
-Some angles that might help get started:
-  - What made you want to start writing this blog now?
-  - What's a small R problem or package moment that stuck with you recently?
-  - What do you want a reader stumbling in from R-bloggers to walk away with?
--->
-```
 
-This blog is where the [R Computing Lab](https://github.com/R-Computing-Lab) writes about the R side of our work: package releases and updates, tutorials on the genetically-informed methods we build tools for, and shorter notes on reproducible research practice.
+
+It's official! 😁 I have tenure now (as of July 1st), and I want to start writing more about the R side of my work. It's the part of my research that I enjoy the most, and I want to share it with others. Heck, I even named my lab the [R Computing Lab](https://github.com/R-Computing-Lab)... This blog is a place for me to write about the R packages I maintain, the methods I develop, and the reproducible research practices I use. 
+
 
 A few things to expect here:
 
