@@ -1,0 +1,29 @@
+---
+title: "Welcome to the R Computing Lab Blog"
+author: "S. Mason Garrison"
+date: '2026-07-06T00:00:00-04:00'
+categories: ["announcements"]
+tags: ["R", "meta"]
+---
+
+```{=html}
+<!--
+TODO (Mason): replace this comment with your own 5-10 line opening paragraph.
+This is the one part of the post meant to sound like you, not a draft written for you.
+Some angles that might help get started:
+  - What made you want to start writing this blog now?
+  - What's a small R problem or package moment that stuck with you recently?
+  - What do you want a reader stumbling in from R-bloggers to walk away with?
+-->
+```
+
+This blog is where the [R Computing Lab](https://github.com/R-Computing-Lab) writes about the R side of our work: package releases and updates, tutorials on the genetically-informed methods we build tools for, and shorter notes on reproducible research practice.
+
+A few things to expect here:
+
+- **Package news** — updates to [BGmisc](https://doi.org/10.32614/CRAN.package.BGmisc), [ggpedigree](https://doi.org/10.32614/CRAN.package.ggpedigree), [discord](https://doi.org/10.32614/CRAN.package.discord), and [NlsyLinks](https://doi.org/10.32614/CRAN.package.NlsyLinks) — new features, breaking changes, and the reasoning behind them.
+- **Tutorials** — worked examples using these packages: building pedigrees, running discordant kinship comparisons, and similar family-based designs, in R.
+- **Research notes** — shorter posts connecting new papers or preprints back to the code and data behind them.
+
+See the [Software](/software/) page for the full package list and the [Publications](/publications/) page for the research these tools support.
+Posts are also available via [RSS](/index.xml) and on [GitHub](https://github.com/R-Computing-Lab/blog).

@@ -2,6 +2,7 @@ baseurl: "/"
 locale: "en-US"
 title: "R Computing Lab"
 theme: "hugo-lithium"
+publishDir: "docs"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 permalinks:
@@ -21,7 +22,8 @@ menu:
       url: "https://twitter.com/smasongarrison"
 
 params:
-  # NOTE: favicon.ico and logo.png below are referenced but not yet present in static/ — add assets later.
+  # NOTE: favicon.ico and logo.png below currently fall back to the hugo-lithium theme's stock defaults
+  # (no custom versions in static/ yet) — swap in real lab branding later.
   description: "R packages, statistical genetics, and reproducible research notes from the R Computing Lab at Wake Forest University."
   highlightjsVersion: "9.12.0"
   highlightjsCDN: "//cdnjs.cloudflare.com/ajax/libs"
